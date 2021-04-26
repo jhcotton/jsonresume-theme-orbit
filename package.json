@@ -1,17 +1,17 @@
 {
-  "name": "jsonresume-theme-orbit-printly",
+  "name": "jsonresume-theme-orbit",
   "version": "0.5.1",
   "description": "Theme for JSON Resume based on Orbit design by xriley",
   "author": "XuluWarrior",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jhcotton/jsonresume-theme-orbit-printly.git"
+    "url": "https://github.com/jhcotton/jsonresume-theme-orbit.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jhcotton/jsonresume-theme-orbit-printly/issues"
+    "url": "https://github.com/jhcotton/jsonresume-theme-orbit/issues"
   },
-  "homepage": "https://github.com/jhcotton/jsonresume-theme-orbit-printly",
+  "homepage": "https://github.com/jhcotton/jsonresume-theme-orbit",
   "scripts": {
     "build:styles": "lessc assets/less/default/styles.less assets/css/styles.css",
     "build:styles:2": "lessc assets/less/theme-2/styles.less assets/css/styles.css",
